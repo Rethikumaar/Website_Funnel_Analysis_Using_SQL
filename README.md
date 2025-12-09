@@ -147,5 +147,5 @@ CGPA: 7.8
 
 | Platform | Link |
 | :--- | :--- |
-| **GitHub** | [https://github.com/JackieRK](https://github.com/JackieRK) |
+| **GitHub** | [https://github.com/JackieRK](https://github.com/Rethikumaar) |
 | **LinkedIn** | [https://linkedin.com/in/rethi-kumaar](https://linkedin.com/in/rethi-kumaar) |# Website_Funnel_Analysis_Using_SQL
