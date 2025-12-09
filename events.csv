@@ -1,0 +1,10 @@
+visitor_id,event_timestamp,event_type,page_url
+101,2023-01-05 10:15:00,page_view,/home
+101,2023-01-05 10:16:20,page_view,/pricing
+102,2023-01-12 09:10:11,page_view,/home
+102,2023-01-12 09:11:00,page_view,/signup
+103,2023-01-20 14:33:20,page_view,/home
+105,2023-02-03 12:33:10,page_view,/home
+105,2023-02-03 12:33:50,page_view,/product
+107,2023-02-15 13:22:11,page_view,/pricing
+108,2023-02-18 07:45:00,page_view,/home
